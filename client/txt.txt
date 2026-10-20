@@ -1,0 +1,10 @@
+
+user:
+email: nileshmistry3011@gmail.com
+password: Nilesh123
+
+admin:
+email: nileshmistry3011@gmail.com
+password: admin123
+
+
